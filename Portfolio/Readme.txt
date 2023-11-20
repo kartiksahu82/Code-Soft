@@ -18,4 +18,4 @@ Continuously refining and updating my portfolio to incorporate new projects and 
 📧 Connect:
 Reach out for collaboration, feedback, or just to say hi! Contact me via email or connect on LinkedIn.
 
-Thank you for visiting my portfolio repository! Let's continue building great things together! 🌟
+Thank you for visiting my portfolio repository! Let's continue building great things together!🌟
